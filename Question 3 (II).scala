@@ -1,5 +1,5 @@
 //Question 3 (II)
-object variables extends App{
+object calculation{
     def main(args: Array[String])={
         var a = 2
         var b = 3
@@ -13,6 +13,7 @@ object variables extends App{
         println(a)
         a = a + 1
 
+        val g = 7.3f
         println(-2 * (g - k) + c )
 
         println(c)
